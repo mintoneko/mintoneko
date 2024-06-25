@@ -4,7 +4,7 @@
 
 我将，点燃星海~
 
-![Firefly ](Firefly .jpg)
+![Firefly](Firefly.jpg)
 
  ## My Skills  
 
