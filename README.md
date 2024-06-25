@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mobaisilent/mobaisilent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! This is Mobai~
 
-Here are some ideas to get you started:
+我将，点燃星海~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Firefly ](./images/Firefly .jpg)
+
+ ## My Skills  
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,css,git,github,gitlab,html,idea,java,js,md,mysql,nodejs,php,react,oracle,vue,c,go,electron,wordpress)](https://skillicons.dev)
+
+
+## Github Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobaisilent)
+
+![mobai](https://github-readme-stats.vercel.app/api?username=mobaisilent&show_icons=true)
+
