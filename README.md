@@ -2,6 +2,11 @@
 
 # Hello! This is Mobai~
 
+🔭 I’m currently studying in university.
+🌱 I'm fighting for my future.
+📫 How to reach me: You can use e-mail.
+⚡ You can go to my Blog to learn more information about me.
+
 我将，点燃星海~
 
 ![Firefly](Firefly.jpg)
