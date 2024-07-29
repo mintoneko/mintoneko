@@ -2,18 +2,20 @@
 
 # Hello! This is Mobai~
 
-🔭 I’m currently studying in university.
-🌱 I'm fighting for my future.
-📫 How to reach me: You can use e-mail.
-⚡ You can go to my Blog to learn more information about me.
+- 🔭 I’m currently studying in university.
 
-我将，点燃星海~
+- 🌱 I'm fighting for my future.
+- 📫 How to reach me: You can use e-mail or [telegram](https://t.me/mobaia_bot).
+- ⚡ You can go to my [Blog](https://www.loliowo.com) to learn more information about me.
+- 🏹 Cherish what you love,Pursue what you Desire.
+
+「我将，点燃星海~」
 
 ![Firefly](Firefly.jpg)
 
  ## My Skills  
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,css,git,github,gitlab,html,idea,java,js,md,mysql,nodejs,php,react,oracle,vue,c,go,electron,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,css,git,github,html,idea,java,js,md,mysql,react,vue,c,go,electron)](https://skillicons.dev)
 
 
 ## Github Stats
