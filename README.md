@@ -6,7 +6,7 @@
 
 - 🌱 I'm fighting for my future.
 - 📫 How to reach me: You can use e-mail or [telegram](https://t.me/mobaia_bot).
-- ⚡ You can go to my [Blog](https://www.loliowo.com) to learn more information about me.
+- ⚡ You can go to my [HomePage](https://www.loliowo.com) to learn more information about me.
 - 🏹 Cherish what you love,Pursue what you Desire.
 
 「我将，点燃星海~」
@@ -20,7 +20,7 @@
 
 ## Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobaisilent)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobaisilent) -->
 
 ![mobai](https://github-readme-stats.vercel.app/api?username=mobaisilent&show_icons=true)
 
