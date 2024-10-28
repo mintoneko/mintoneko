@@ -22,5 +22,5 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobaisilent) -->
 
-![mobai](https://github-readme-stats.vercel.app/api?username=mobaia&show_icons=true)
+![mobai](https://github-readme-stats.vercel.app/api?username=mobaitech&show_icons=true)
 
