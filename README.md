@@ -31,7 +31,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobaisilent) -->
 
-![mobai](https://github-readme-stats.vercel.app/api?username=mobaitech&show_icons=true)
+![mobai](https://github-readme-stats.vercel.app/api?username=mintoneko&show_icons=true)
 
 ## Snake
 ![github contribution grid snake animation](https://raw.githubusercontent.com/impact-eintr/impact-eintr/output/github-contribution-grid-snake.svg)
