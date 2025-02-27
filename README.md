@@ -17,11 +17,6 @@
 - 为了减轻编程任务，优化使用工具，即使你不得不绕道构建一部分用完后便会抛弃的工具（这也是值得的）。
 ---- 
 
-
-「我将，点燃星海~」
-
-![Firefly](Firefly.jpg)
-
  ## My Skills  
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,css,git,github,html,idea,java,js,md,mysql,react,vue,c,go,electron)](https://skillicons.dev)
