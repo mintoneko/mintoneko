@@ -2,13 +2,6 @@
 
 # Hello! This is Mobai~
 
-- 🔭 I’m currently studying in university.
-
-- 🌱 I'm fighting for my future.
-- 📫 How to reach me: You can use e-mail or [telegram](https://t.me/mobaia_bot).
-- ⚡ You can go to my [HomePage](https://www.loliowo.com) to learn more information about me.
-- 🏹 Cherish what you love,Pursue what you Desire.
-
 ## UNIX哲学
 
 - 使每个程序做好一件事。若要做新的工作，则重新构建，而不是通过添加新功能使旧程序复杂化。
@@ -24,7 +17,7 @@
 
 ## Github Stats
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobaisilent) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintoneko) -->
 
 ![mobai](https://github-readme-stats.vercel.app/api?username=mintoneko&show_icons=true)
 
